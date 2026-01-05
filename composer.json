@@ -1,5 +1,5 @@
 {
-    "name": "goophim/ultracrawler",
+    "name": "crawl-3/ultracrawler",
     "description": "ultracrawler",
     "type": "package",
     "require": {
@@ -14,8 +14,8 @@
     },
     "authors": [
         {
-            "name": "goophim",
-            "email": "collyn094@gmail.com"
+            "name": "kynlip",
+            "email": "kynlipcz@gmail.com"
         }
     ],
     "extra": {
